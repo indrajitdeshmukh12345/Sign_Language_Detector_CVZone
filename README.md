@@ -27,12 +27,11 @@ Once the images are collected using ```datacolector.py  ```, Modle is trained us
 This modle is trained to recognize hand gestures for "a,b,c,d".this modle is not complete 
 ## Screenshots
 
-![App Screenshot](https://github.com/indrajitdeshmukh12345/Sign-language-/assets/46133820/7e6d0aa5-cfbf-4f45-8c6c-551a8c3f783a
-)
+![App Screenshot](https://github.com/indrajitdeshmukh12345/Sign_Language_Detector_CVZone/blob/61a54618af0347e1ce6853a06b561150ba3d73b8/Screenshots/Screenshot%202024-05-18%20003811.png)
 
-![Spell correction](https://github.com/indrajitdeshmukh12345/Sign-language-/assets/46133820/88c0e4de-7b59-479a-9559-0873051a7fef)
+![Spell correction](https://github.com/indrajitdeshmukh12345/Sign_Language_Detector_CVZone/blob/61a54618af0347e1ce6853a06b561150ba3d73b8/Screenshots/Screenshot%202024-05-18%20014910.png)
 
-![hand_sign](https://github.com/indrajitdeshmukh12345/Sign-language-/assets/46133820/c3576f1a-c74c-4172-8d10-3a219bb6e20c)
+![hand_sign](https://github.com/indrajitdeshmukh12345/Sign_Language_Detector_CVZone/blob/61a54618af0347e1ce6853a06b561150ba3d73b8/Screenshots/Screenshot%202024-05-18%20020940.png)
 
 
 ## File Structure
