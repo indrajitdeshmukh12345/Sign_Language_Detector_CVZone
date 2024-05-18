@@ -15,7 +15,7 @@ cap.set(4, 480)  # Height
 detector = HandDetector(maxHands=2)
 offset = 20
 imgSize = 300
-folder = "C:\\Users\\Indrajit\\PycharmProjects\\pythonProject1\\data\\ok"
+folder = "path"#Path to file where the data for modle training will be stored (images will be stored)
 counter =0
 while True:
     success, img = cap.read()
@@ -71,7 +71,7 @@ while True:
 
     if key == ord('q'):  # Press 'q' to quit the loop
         break
-    if key == ord('s'):
+    if key == ord('s'):   #Press 's' to capture the image and edit the path to save it
         counter+=1
 
         cv2.imwrite(f'{folder}/Image_{time.time()}.jpg',imgWhite)
