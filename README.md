@@ -32,6 +32,8 @@ This modle is trained to recognize hand gestures for "a,b,c,d".this modle is not
 
 ![Spell correction](https://github.com/indrajitdeshmukh12345/Sign-language-/assets/46133820/88c0e4de-7b59-479a-9559-0873051a7fef)
 
+![hand_sign](https://github.com/indrajitdeshmukh12345/Sign-language-/assets/46133820/c3576f1a-c74c-4172-8d10-3a219bb6e20c)
+
 
 ## File Structure
 
