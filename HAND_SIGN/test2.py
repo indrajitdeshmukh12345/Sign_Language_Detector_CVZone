@@ -23,8 +23,8 @@ sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
 # Initialize OpenCV and related components
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
-classifier = Classifier("C:\\Users\\Indrajit\\PycharmProjects\\pythonProject1\\model\\keras_model.h5",
-                        "C:\\Users\\Indrajit\\PycharmProjects\\pythonProject1\\model\\labels.txt")
+classifier = Classifier("C:\\Users\\......\\model\\keras_model.h5", 
+                        "C:\\Users\\........\\model\\labels.txt")#path to lables and model file
 offset = 20
 imgSize = 300
 labels = ["A", "B", "C", "D", "ok"]
